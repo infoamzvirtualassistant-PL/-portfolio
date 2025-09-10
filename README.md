@@ -77,9 +77,7 @@
     <script src="script.js"></script>
 </body>
 </html>
-
 [styles.css](https://github.com/user-attachments/files/22264333/styles.css)
-
 * {
     margin: 0;
     padding: 0;
@@ -189,7 +187,6 @@ footer {
     background-color: #2c3e50;
     color: white;
 }
-
 [script.js](https://github.com/user-attachments/files/22264363/script.js)
 
 // Add any interactive elements you'd like, such as smooth scrolling or form validation
