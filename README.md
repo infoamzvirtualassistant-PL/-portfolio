@@ -77,8 +77,7 @@
     <script src="script.js"></script>
 </body>
 </html>
-[styles.css](https://github.com/user-attachments/files/22264333/styles.css)
-
+// Add any interactive elements you'd like, such as smooth scrolling or form validation
 * {
     margin: 0;
     padding: 0;
