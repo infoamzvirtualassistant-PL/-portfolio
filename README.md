@@ -78,6 +78,7 @@
 </body>
 </html>
 [styles.css](https://github.com/user-attachments/files/22264333/styles.css)
+
 * {
     margin: 0;
     padding: 0;
